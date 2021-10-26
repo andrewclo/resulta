@@ -22,3 +22,5 @@ Should we wish to continue development of this plugin the following additional f
 - Active class for the selected column.
 - UI to display the ascending or decending column order.
 - Responsive display for mobile.
+- Add logic for error detection for the JSON data.
+- Add caching for JSON data so the API does not have to be called on every page load.
