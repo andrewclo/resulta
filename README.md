@@ -4,7 +4,7 @@ This plugin will load NFL teams from the Resula API and display the feed as a ta
 
 ## Installation
 
-- Download the plugin from GitHub ().
+- Download the plugin from [link](https://www.dropbox.com/s/5aer200at4ac7s7/resulta-teams.zip?dl=0 "Dropbox").
 - Upload the plugin ZIP through the Wordpress plugin admin. Dashboard > Plugins > Add New.
 - Activate the plugin.
 - Add this shortcode [resulta-teams] to any Wordpress page where you wish to display the plugin data table.
