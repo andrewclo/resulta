@@ -1,0 +1,20 @@
+.arrow {
+  width: 1rem;
+  height: 1rem;
+  display: inline-block;
+  background-image: url("right_arrow_icon.svg");
+  background-size: cover;
+  margin-left: 1rem;
+  visibility: hidden;
+}
+
+.active .arrow {
+  visibility: visible;
+}
+.arrow.down {
+  transform: rotate(90deg);
+}
+
+.arrow.up {
+  transform: rotate(-90deg);
+}
